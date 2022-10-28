@@ -58,9 +58,9 @@ Man для пошуку документацыъ про команди. find д�
 
 ![JS Basics 1](task_js_basics/js1.JPG "JS Basics 1")
 ![JS Basics 2](task_js_basics/js2_ES6.JPG "JS Basics 2")
-![JS Basics 3](task_js_basics/js3_data.JPG.JPG "JS Basics 3")
-![JS Basics 4](task_js_basics/js4_algor.JPG.JPG "JS Basics 4")
-![JS Basics 5](task_js_basics/js5_func.JPG.JPG "JS Basics 5")
-![JS Basics 6](task_js_basics/js6_interAlg.JPG.JPG "JS Basics 6")
+![JS Basics 3](task_js_basics/js3_data.JPG "JS Basics 3")
+![JS Basics 4](task_js_basics/js4_algor.JPG "JS Basics 4")
+![JS Basics 5](task_js_basics/js5_func.JPG "JS Basics 5")
+![JS Basics 6](task_js_basics/js6_interAlg.JPG "JS Basics 6")
 
 Вдосконалив знання з JavaScript, навчився використовувати можливості роботи з масивами, об'єктами, стрінгами для вирішення практичних завдань.
